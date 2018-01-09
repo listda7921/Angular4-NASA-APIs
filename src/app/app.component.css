@@ -1,0 +1,10 @@
+.app{
+    height: 100vh;
+}
+.header{
+    background-color:#3b4045;
+    color: #3af;
+    font-weight: bold;
+    height: 5vh;
+    margin-bottom: 1em;
+}
